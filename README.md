@@ -1,1 +1,1 @@
-# webGC
+# CurriculoGC
